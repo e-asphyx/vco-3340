@@ -26256,6 +26256,102 @@
 		(layer "Edge.Cuts")
 		(uuid "3587f8bd-c879-469c-ab2f-0630eb627768")
 	)
+	(gr_text "Temp comp"
+		(at 137.5 74.5 0)
+		(layer "F.SilkS" knockout)
+		(uuid "2bb55142-0388-4eca-bd7d-e5c1d317c4a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Saw offset"
+		(at 150.5 150.5 0)
+		(layer "F.SilkS" knockout)
+		(uuid "f5c26139-f376-45d2-bf72-4c0a012b882a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "HF"
+		(at 155.5 110.5 0)
+		(layer "F.SilkS" knockout)
+		(uuid "5a2b87d8-35fd-4c78-86ff-0befc82487c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Tr offs"
+		(at 156 125.5 0)
+		(layer "F.SilkS" knockout)
+		(uuid "5e4173b9-6dff-4377-a6ca-2e6bc93292bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "I Ref"
+		(at 185.61 108 0)
+		(layer "F.SilkS" knockout)
+		(uuid "2ad52655-e987-4172-a31c-2332aa576cfe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Sub offset"
+		(at 192.5 55.5 0)
+		(layer "F.SilkS" knockout)
+		(uuid "0eb75fd8-fc23-4120-9e7e-3ceb7069a472")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Sq offset"
+		(at 190.5 141 90)
+		(layer "F.SilkS" knockout)
+		(uuid "cd517f94-323d-410b-9818-34b946017794")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Scale"
+		(at 205.5 103.5 90)
+		(layer "F.SilkS" knockout)
+		(uuid "89fe5afd-57c9-4660-8006-40f75bf22a37")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 149 134.58)
 		(end 144 134.58)
