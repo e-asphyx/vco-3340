@@ -15117,7 +15117,7 @@
 				)
 			)
 		)
-		(property "Value" "10p"
+		(property "Value" "100p"
 			(at 359.41 135.89 90)
 			(show_name no)
 			(do_not_autoplace no)
